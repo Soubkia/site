@@ -354,6 +354,10 @@ blob.blob2.scale {
   text-align: center;
 }
 
+.fa:before {
+  line-height: 2em;
+}
+
 .icon{
   display: inline-block;
   position: relative;
