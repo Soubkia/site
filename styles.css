@@ -339,6 +339,9 @@ blob.blob2.scale {
   font-size: 5em;
   line-height: .9;
   }
+.hyperlink {
+  color: inherit;
+}
 /*Contact Icons*/
 /* fontawesome */
 [class*="fontawesome-"]:before {
