@@ -2,7 +2,8 @@
 @import url(http://weloveiconfonts.com/api/?family=fontawesome|zocial);
 html {
   height: 100%;
-  font-size: 16px;
+  font-size: 1em;
+
 }
 
 body {
@@ -339,7 +340,8 @@ blob.blob2.scale {
   font-size: 5em;
   line-height: .9;
   }
-.hyperlink {
+
+.hyperlink, .hyperlink li a{
   color: inherit;
 }
 /*Contact Icons*/
