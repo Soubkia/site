@@ -1,4 +1,5 @@
 @import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900,200italic,300italic,400italic,600italic,700italic,900italic);
+@import url(http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css);
 body {
   font-family: "Source Sans Pro";
   margin: 0;
@@ -32,7 +33,7 @@ blockquote {
   margin: 0 0 1em;
   padding: 0 0 0 1.5em;
 }
-ol {
+ol, ul {
   margin: 0;
   line-height: 1.6em;
 }
