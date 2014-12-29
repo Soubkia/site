@@ -6,6 +6,9 @@ body {
   color: #222;
   font-weight: 200;
 }
+img {
+  width: 100%;
+}
 pre {
   white-space: pre-wrap;
 }
